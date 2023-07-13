@@ -61,11 +61,13 @@ yarn install
 To start the development server and view the app, run the following command:
 
 ```bash
+
 npm run dev
 
 ```
 
 or
+
 ```bash
 
 yarn dev
