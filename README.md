@@ -31,14 +31,14 @@ For more information, see [Install Tailwind CSS with Vite](https://tailwindcss.c
 1.Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/honey-blog.git
+git clone https://github.com/FWDcodeStorage/custom-dropdown.git
 
 ```
 
 2.Navigate to the project directory:
 
 ```bash
-cd honey-blog
+cd custom-dropdown
 
 ```
 
